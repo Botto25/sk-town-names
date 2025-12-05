@@ -1,7 +1,9 @@
 available: false
 id: 0
 mainset:
-- names: []
+- names:
+  - name: Beladice
+    probability: 1
 name: SK-town-names
 source: null
 subsets: []
